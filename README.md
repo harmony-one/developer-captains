@@ -1,4 +1,7 @@
 # developer-captains
+---
+
+- A Place for developer captains to track issues and notes using KanBan regarding project priorities/tasks management.
 
 
 
